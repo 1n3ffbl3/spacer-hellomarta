@@ -52,12 +52,18 @@ export default {
 </script>
 <style lang="scss" scoped>
 .wrapper {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  padding: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0;
-  padding: 30px;
-  width: 100%;
+  justify-items: center;
+  background-image: url("../assets/heroimage2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 80% 0%;
 }
 
 .search {

@@ -16,8 +16,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.wrapper {
+.claimWrapper {
   display: flex;
+  text-align: center;
   flex-direction: column;
   justify-content: center;
   aling-items: center;
@@ -30,6 +31,10 @@ export default {
 
   @media (min-width: 768px) {
     font-size: 80px;
+  }
+
+  @media (min-width: 1024px) {
+    font-size: 100px;
   }
 }
 

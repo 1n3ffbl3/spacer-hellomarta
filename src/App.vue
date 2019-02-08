@@ -47,8 +47,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,800");
+<style lang="scss" >
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,600,800");
 
 $font-weight-light: 300;
 $font-weight-normal: 400;
@@ -67,12 +67,13 @@ body {
 
 .wrapper {
   margin: 0;
+  position: relative;
   width: 100%;
   min-height: 100vh;
   padding: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-items: center;
+  justify-content: center;
 }
 </style>

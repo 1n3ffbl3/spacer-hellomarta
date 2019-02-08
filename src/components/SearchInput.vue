@@ -5,9 +5,7 @@
     :value="value"
     @input="handleChange"
   />
-
 </template>
-
 <script>
 export default {
   name: "SearchInput",
@@ -24,7 +22,6 @@ export default {
   }
 };
 </script>
-
 <style lang="scss" scoped>
 input {
   margin-top: 50px;
