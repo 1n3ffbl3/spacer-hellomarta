@@ -4,7 +4,7 @@ This app uses NASA image API to fetch images and display them after passing sear
 
 ### Hello Roman - youtube vue course
 
-- youtube link: x
+- youtube link: https://youtu.be/A2rEhxkFPDw
 
 ### How to start
 
