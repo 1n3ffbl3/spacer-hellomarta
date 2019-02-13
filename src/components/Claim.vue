@@ -1,10 +1,8 @@
 <template>
-  <div class="wrapper">
+  <div class="claimWrapper">
     <h1 class="claim">SPACER</h1>
-    <p class="subclaim">Begin your journey...
-    </p>
-    <p class="subclaim">Type anything space-related to start.
-    </p>
+    <p class="subclaim">Begin your journey...</p>
+    <p class="subclaim">Type anything space-related to start.</p>
   </div>
 
 </template>

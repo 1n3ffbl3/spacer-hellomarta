@@ -1,5 +1,6 @@
 module.exports = {
 <<<<<<< HEAD
+<<<<<<< HEAD
   root: true,
   env: {
     node: true,
@@ -16,6 +17,8 @@ module.exports = {
     parser: 'babel-eslint',
   },
 =======
+=======
+>>>>>>> edecd8a061e4e942c227b3f02248ceaec1bda034
     root: true,
     env: {
         node: true,
@@ -32,5 +35,8 @@ module.exports = {
     parserOptions: {
         parser: 'babel-eslint',
     },
+<<<<<<< HEAD
 >>>>>>> 89de054... Fixing bug with linebreak style and background image
+=======
+>>>>>>> edecd8a061e4e942c227b3f02248ceaec1bda034
 };
