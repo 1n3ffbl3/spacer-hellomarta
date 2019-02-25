@@ -4,11 +4,11 @@
     <p class="subclaim">Begin your journey...</p>
     <p class="subclaim">Type anything space-related to start.</p>
   </div>
-
 </template>
 
 <script>
 export default {
+  /* eslint-disable */
   name: "Claim"
 };
 </script>
@@ -19,12 +19,12 @@ export default {
   text-align: center;
   flex-direction: column;
   justify-content: center;
-  aling-items: center;
   color: white;
+  font-weight: 100px;
 }
 
 .claim {
-  font-size: 50px;
+  font-size: 40px;
   margin: 0;
 
   @media (min-width: 768px) {
